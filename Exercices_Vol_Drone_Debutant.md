@@ -1,4 +1,4 @@
-![Digital Bridge RDC](0f4758eb-70c5-4ec1-9f93-8270e7749176.png)
+![Digital Bridge RDC](images/dBlogo.png)
 
 # 🛸 Exercices de Vol de Drone pour Débutants
 
